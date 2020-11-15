@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/cruzcosa-react-portfolio/static/css/main.bd87dc3a.chunk.css",
-    "main.js": "/cruzcosa-react-portfolio/static/js/main.53a065fc.chunk.js",
-    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.53a065fc.chunk.js.map",
+    "main.js": "/cruzcosa-react-portfolio/static/js/main.67b879f0.chunk.js",
+    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.67b879f0.chunk.js.map",
     "runtime-main.js": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js",
     "runtime-main.js.map": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js.map",
     "static/css/2.1a02f21c.chunk.css": "/cruzcosa-react-portfolio/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.a1abf855.chunk.js": "/cruzcosa-react-portfolio/static/js/2.a1abf855.chunk.js",
-    "static/js/2.a1abf855.chunk.js.map": "/cruzcosa-react-portfolio/static/js/2.a1abf855.chunk.js.map",
+    "static/js/2.e18444e4.chunk.js": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js",
+    "static/js/2.e18444e4.chunk.js.map": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js.map",
     "index.html": "/cruzcosa-react-portfolio/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/cruzcosa-react-portfolio/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.bd87dc3a.chunk.css.map": "/cruzcosa-react-portfolio/static/css/main.bd87dc3a.chunk.css.map",
-    "static/js/2.a1abf855.chunk.js.LICENSE.txt": "/cruzcosa-react-portfolio/static/js/2.a1abf855.chunk.js.LICENSE.txt",
+    "static/js/2.e18444e4.chunk.js.LICENSE.txt": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js.LICENSE.txt",
     "static/media/style.css": "/cruzcosa-react-portfolio/static/media/lighthouse.0a3ed8b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9eccc73c.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.a1abf855.chunk.js",
+    "static/js/2.e18444e4.chunk.js",
     "static/css/main.bd87dc3a.chunk.css",
-    "static/js/main.53a065fc.chunk.js"
+    "static/js/main.67b879f0.chunk.js"
   ]
 }
