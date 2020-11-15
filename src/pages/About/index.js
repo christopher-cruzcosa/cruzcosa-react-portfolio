@@ -6,10 +6,10 @@ function About() {
                 <br/>
                 <div className="row ml-2">
                     <div className="col-lg-9">
-                        <h3>About</h3>
+                        <h3 >About</h3>
                         <br/>
-                        <p className="float-left">
-                            <img className="img-fluid float-left mr-5 mb-3" src={'/images/headshot.jpg'}
+                        <p className="float-left" >
+                            <img className="img-fluid float-left mr-5 mb-3" src={process.env.PUBLIC_URL + '/images/headshot.jpg'}
                                 alt="headshot" style={{width: "33%", height: "33%"}}/>
                             An IT professional with over 12 years of experience, primarily in
                             the public service sector. Originally from Texas, I went to NYU for college and fell in
@@ -33,18 +33,18 @@ function About() {
                         <div style={{clear:"both"}}></div>
                         <br/>
 
-                        <h3>Contact Info</h3>
+                        <h3 >Contact Info</h3>
                         <ul>
-                            <li>
-                                <strong>Email:</strong> <a
+                            <li >
+                                <strong >Email:</strong> <a
                                     href="mailto:christopher.cruzcosa@gmail.com" style={{color: "#F0810F"}}><strong>christopher-cruzcosa@gmail.com</strong></a>
-                            </li>
+                            </li >
                             <li>
-                                <strong>Github:</strong> <a
+                                <strong >Github:</strong> <a
                                     href="https://github.com/christopher-cruzcosa" target="_blank" rel="noreferrer" style={{color: "#F0810F"}}><strong>christopher-cruzcosa</strong></a>
                             </li>
                             <li>
-                                <strong>LinkedIn:</strong> <a
+                                <strong >LinkedIn:</strong> <a
                                     href="https://www.linkedin.com/in/christopher-cruzcosa/" target="_blank" rel="noreferrer" style={{color: "#F0810F"}}><strong>Christopher
                                         Cruzcosa</strong></a>
                             </li>

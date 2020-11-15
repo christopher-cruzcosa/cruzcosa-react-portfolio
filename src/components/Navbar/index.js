@@ -27,7 +27,7 @@ function Navbar() {
                         <NavLink  className="nav-link" to="/contact" style={{ color: "#F0810F" }}>Contact</NavLink>
                         </li>
                         <li className="nav-item">
-                        <a  className="nav-link" to="/resume.pdf" href={"/resume.pdf"} style={{ color: "#F0810F" }} rel="noreferrer" target="_blank" >Resume</a>
+                        <a  className="nav-link" to="/resume.pdf" href={process.env.PUBLIC_URL + "/resume.pdf"} style={{ color: "#F0810F" }} rel="noreferrer" target="_blank" >Resume</a>
                         </li>
                     </ul>
                 </div>

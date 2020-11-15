@@ -1,6 +1,6 @@
 import React from "react";
-// import Card from "../components/Card";
-// import friends from "../projects.json";
+import Projects from "../../components/Projects";
+import ProjectData from "../../data/projects.json";
 
 function Portfolio() {
     return (
@@ -8,30 +8,24 @@ function Portfolio() {
             <br />
             <div classNameName="row">
                 <div className="col mb-3 ml-2 justify-content-center">
-                    <h4>Web Dev Portfolio</h4>
+                    <h4>Project Portfolio</h4>
                 </div>
             </div>
-            <div style={{
-            paddingTop: "50px",
-            height: "100%",
-            display: "flex",
-            flexFlow: "row wrap",
-            padding: "20px",
-            justifyContent: "space-around",
-            alignContent: "flex-start",
-            overflow: "auto"
-          }}>
-            {/* {projects.map(project => (
-                <Card
+            <br/>
+            <div className="cardContainer">
+            {ProjectData.map(project => (
+                <Projects
                     id={project.id}
                     key={project.id}
                     name={project.name}
                     image={project.image}
                     link={project.link}
                     gitLink={project.gitLink}
+                    desc={project.desc}
                 />
-            ))} */}
+            ))}
             </div>
+            <div style={{clear: "both"}}></div>
         </div>
 
     );

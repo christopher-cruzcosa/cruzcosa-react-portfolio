@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
     return (
-        <div>
+        <div style={{color: "black",height: "100%"}}>
             <br/>
             <div className="row">
                 <div className="col-lg-9">

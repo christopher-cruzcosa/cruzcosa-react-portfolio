@@ -1,30 +1,34 @@
 [
     {
       "id": 1,
-      "name": "Tarot Readings",
+      "name": "Dr. Fantastic's Tarot Readings",
       "link": "https://christopher-cruzcosa.github.io/life-reading-app/index.html",
       "gitLink": "https://github.com/christopher-cruzcosa/life-reading-app",
-      "image": "/images/projects/projectScreenshot1.png"
+      "image": "/images/projects/projectScreenshot1.png",
+      "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
     },
     {
         "id": 2,
-        "name": "Weather Dashboard",
+        "name": "le Phare Weather Dashboard",
         "link": "https://christopher-cruzcosa.github.io/le-phare-weather-dashboard/",
         "gitLink": "https://github.com/christopher-cruzcosa/le-phare-weather-dashboard",
-        "image": "/images/projects/projectScreenshot2.png"
+        "image": "/images/projects/projectScreenshot2.png",
+        "desc":"An app that allows users to see weather forecasts for a given city, when searched.  This uses the OpenWeather API to query the database and provide all forecast data."
       },
       {
         "id": 3,
         "name": "Password Generator",
         "link": "https://christopher-cruzcosa.github.io/auto-password-generator/",
         "gitLink": "https://github.com/christopher-cruzcosa/auto-password-generator",
-        "image": "/images/projects/projectScreenshot3.png"
+        "image": "/images/projects/projectScreenshot3.png",
+        "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
       },
       {
         "id": 4,
         "name": "GameKiwi",
         "link": "https://infinite-plains-30611.herokuapp.com/",
         "gitLink": "https://github.com/christopher-cruzcosa/bluetooth-coffee-cup",
-        "image": "/images/projects/projectScreenshot4.png"
+        "image": "/images/projects/projectScreenshot4.png",
+        "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
       }
   ]
