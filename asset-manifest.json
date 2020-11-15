@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cruzcosa-react-portfolio/static/css/main.bd87dc3a.chunk.css",
-    "main.js": "/cruzcosa-react-portfolio/static/js/main.0c86d56b.chunk.js",
-    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.0c86d56b.chunk.js.map",
+    "main.css": "/cruzcosa-react-portfolio/static/css/main.a1cfabf9.chunk.css",
+    "main.js": "/cruzcosa-react-portfolio/static/js/main.affe2547.chunk.js",
+    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.affe2547.chunk.js.map",
     "runtime-main.js": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js",
     "runtime-main.js.map": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js.map",
     "static/css/2.1a02f21c.chunk.css": "/cruzcosa-react-portfolio/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e18444e4.chunk.js": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js",
-    "static/js/2.e18444e4.chunk.js.map": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js.map",
+    "static/js/2.812a4cb0.chunk.js": "/cruzcosa-react-portfolio/static/js/2.812a4cb0.chunk.js",
+    "static/js/2.812a4cb0.chunk.js.map": "/cruzcosa-react-portfolio/static/js/2.812a4cb0.chunk.js.map",
     "index.html": "/cruzcosa-react-portfolio/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/cruzcosa-react-portfolio/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.bd87dc3a.chunk.css.map": "/cruzcosa-react-portfolio/static/css/main.bd87dc3a.chunk.css.map",
-    "static/js/2.e18444e4.chunk.js.LICENSE.txt": "/cruzcosa-react-portfolio/static/js/2.e18444e4.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/cruzcosa-react-portfolio/static/media/lighthouse.0a3ed8b4.jpg"
+    "static/css/main.a1cfabf9.chunk.css.map": "/cruzcosa-react-portfolio/static/css/main.a1cfabf9.chunk.css.map",
+    "static/js/2.812a4cb0.chunk.js.LICENSE.txt": "/cruzcosa-react-portfolio/static/js/2.812a4cb0.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/cruzcosa-react-portfolio/static/media/lighthouse-web.68dfbbb2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9eccc73c.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e18444e4.chunk.js",
-    "static/css/main.bd87dc3a.chunk.css",
-    "static/js/main.0c86d56b.chunk.js"
+    "static/js/2.812a4cb0.chunk.js",
+    "static/css/main.a1cfabf9.chunk.css",
+    "static/js/main.affe2547.chunk.js"
   ]
 }
