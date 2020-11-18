@@ -1,18 +1,23 @@
 import { React } from "react";
+import { NavLink } from "react-router-dom";
 import './style.css';
 
 
 function Front() {
   return (
     <div className="bg" >
-      <div className="ml-5" style={{color: "black"}}>
-        <br/>
-      <p style={{fontSize: "3em"}}>Hi, I'm Chris.</p>
-      <br/>
-
-      <p className="ml-3" style={{width: "400px"}}>Welcome to this island I've carved out of the much wider sea.</p>
-      <p className="ml-3" style={{width: "400px"}}>You're more than welcome to take a look around, before you set sail again.</p>
-      <p className="ml-3" style={{width: "400px"}}>The sunsets are beautiful here.</p>
+      <div style={{ color: "black" }}>
+        <br />
+        <h4 className="pl-2" style={{ fontSize: "4em" }}>Hi, I'm Chris.</h4>
+        <br />
+        <br />
+        <br />
+        <div className="container" style={{color: "#F0810F", fontSize: "1.5em", fontWeight: "900", maxWidth: "90vw"}}>
+          <p className="text-right" >Welcome to this island I've carved out of the much wider sea.</p>
+          <p className="text-right" >You're welcome to take a look around, before you set sail again.</p>
+          <p className="text-right" >The sunsets are beautiful here.</p>
+          <p className="text-right" ><NavLink class="btn btn-outline-dark justify-content-right" to="/portfolio" target="_blank" rel="noopener noreferrer">View Projects <i class="icon-briefcase3"></i></NavLink></p>
+        </div>
       </div>
     </div>
   );
