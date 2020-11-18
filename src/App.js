@@ -11,8 +11,8 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <HashRouter>
-      <div style={{ backgroundColor: "#011A27" }} className="full-height ">
-        <Navbar />
+      <Navbar />
+
         <Wrapper>
           <Route exact path="/">
             <Front />
@@ -31,7 +31,6 @@ function App() {
           </Route>
         </Wrapper>
         <Footer />
-      </div>
     </HashRouter>
   );
 }

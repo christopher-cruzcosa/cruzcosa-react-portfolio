@@ -1,11 +1,8 @@
 import React from "react";
 
 function Wrapper(props) {
-   return <div className="container" {...props} style={{color: "whitesmoke"}}></div>
+   return <main {...props} style={{backgroundColor: "#011A27", color: "whitesmoke", minHeight: "100vh", minWidth: "100vw"}}></main>
    
-//    <main className="flex-shrink-0 mainbody">
-//        <div className="container" style={{backgroundColor: "whitesmoke"}} {...props} ></div>
-//    </main>;
 }
 
 export default Wrapper;
