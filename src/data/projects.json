@@ -1,34 +1,47 @@
 [
-    {
-      "id": 1,
-      "name": "Dr. Fantastic's Tarot Readings",
-      "link": "https://christopher-cruzcosa.github.io/life-reading-app/index.html",
-      "gitLink": "https://github.com/christopher-cruzcosa/life-reading-app",
-      "image": "/images/projects/projectScreenshot1.png",
-      "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
-    },
-    {
-        "id": 2,
-        "name": "le Phare Weather Dashboard",
-        "link": "https://christopher-cruzcosa.github.io/le-phare-weather-dashboard/",
-        "gitLink": "https://github.com/christopher-cruzcosa/le-phare-weather-dashboard",
-        "image": "/images/projects/projectScreenshot2.png",
-        "desc":"An app that allows users to see weather forecasts for a given city, when searched.  This uses the OpenWeather API to query the database and provide all forecast data."
-      },
-      {
-        "id": 3,
-        "name": "Password Generator",
-        "link": "https://christopher-cruzcosa.github.io/auto-password-generator/",
-        "gitLink": "https://github.com/christopher-cruzcosa/auto-password-generator",
-        "image": "/images/projects/projectScreenshot3.png",
-        "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
-      },
-      {
-        "id": 4,
-        "name": "GameKiwi",
-        "link": "https://infinite-plains-30611.herokuapp.com/",
-        "gitLink": "https://github.com/christopher-cruzcosa/bluetooth-coffee-cup",
-        "image": "/images/projects/projectScreenshot4.png",
-        "desc":"A simple app for giving a user an on-the-fly Tarot card reading, using a Tarot Card API for the images, flavor text, and randomized card selections."
-      }
-  ]
+  {
+    "id": 1,
+    "name": "Dr. Fantastic's Tarot Readings",
+    "link": "https://christopher-cruzcosa.github.io/life-reading-app/index.html",
+    "gitLink": "https://github.com/christopher-cruzcosa/life-reading-app",
+    "image": "/images/projects/projectScreenshot1.png",
+    "desc": "A fortune teller application that gives users a short Tarot card reading, using a Tarot API for all card data.",
+    "build": "Javascript, External API(s)"
+  },
+  {
+    "id": 2,
+    "name": "GameKiwi",
+    "link": "https://infinite-plains-30611.herokuapp.com/",
+    "gitLink": "https://github.com/christopher-cruzcosa/bluetooth-coffee-cup",
+    "image": "/images/projects/projectScreenshot2.png",
+    "desc": "A minimalist social media platform that allows users to share their 'top ten' video game list with friends and those interested. Uses the RAWg API for all game data.",
+    "build": "Handlebars, Node JS, mySQL, Sequelize, External API(s)"
+  },
+  {
+    "id": 3,
+    "name": "Ecstatic Exertion",
+    "link": "https://arcane-everglades-22816.herokuapp.com/",
+    "gitLink": "https://github.com/christopher-cruzcosa/ecstatic-exertion",
+    "image": "/images/projects/projectScreenshot3.png",
+    "desc": "A fitness tracker that allows users to save a record of workouts and then track progress over time in performance graphs.",
+    "build": "Javascript, Node JS, MongoDB, Mongoose"
+  },
+  {
+    "id": 4,
+    "name": "Silmaril Gram",
+    "link": "https://christopher-cruzcosa.github.io/silmaril-gram/",
+    "gitLink": "https://github.com/christopher-cruzcosa/silmaril-gram",
+    "image": "/images/projects/projectScreenshot4.png",
+    "desc": "A application built using React, which allows managers to view and sort from an employee records API.",
+    "build": "React, Javascript, External API(s)"
+  },
+  {
+    "id": 5,
+    "name": "le Phare Weather Dashboard",
+    "link": "https://christopher-cruzcosa.github.io/le-phare-weather-dashboard/",
+    "gitLink": "https://github.com/christopher-cruzcosa/le-phare-weather-dashboard",
+    "image": "/images/projects/projectScreenshot5.png",
+    "desc": "A weather dashboard for all those voyageurs de phare.",
+    "build": "Javascript, External API(s)"
+  }
+]

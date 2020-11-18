@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route} from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import Front from "./pages/Front";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -11,27 +11,27 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <HashRouter>
-      <div style={{ backgroundColor: "#011A27" }}>
-      <Navbar/>
-      <Wrapper>
-        <Route exact path="/">
-          <Front/>
-        </Route>
-        <Route path="/front">
-          <Front/>
-        </Route>
-        <Route exact path="/about">
-          <About />
-        </Route>
-        <Route exact path="/contact">
-          <Contact />
-        </Route>
-        <Route exact path="/portfolio">
-          <Portfolio />
-        </Route>
+      <div style={{ backgroundColor: "#011A27" }} className="full-height ">
+        <Navbar />
+        <Wrapper>
+          <Route exact path="/">
+            <Front />
+          </Route>
+          <Route path="/front">
+            <Front />
+          </Route>
+          <Route exact path="/about">
+            <About />
+          </Route>
+          <Route exact path="/contact">
+            <Contact />
+          </Route>
+          <Route exact path="/portfolio">
+            <Portfolio />
+          </Route>
         </Wrapper>
-        <Footer/>
-        </div>
+        <Footer />
+      </div>
     </HashRouter>
   );
 }

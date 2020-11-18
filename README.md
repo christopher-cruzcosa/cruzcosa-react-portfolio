@@ -5,28 +5,21 @@ A portfolio of web development projects, built using React.
 
 A website for my contact information, basic biography, resume, and a portfolio of my web development projects.
 
-
 ## Installation
 
-This project is made up of three pages (Index, Contact, Portfolio) with a link to my resume.
-
+Built using React and Bootstrap.
 
 ## Usage 
 
 ![page screenshot](./public/images/screenshot1.png)
 
-
-
 This site is meant to be web accessible and the user should be able to navigate between the three main html pages.
 
-Website Address: https://christopher-cruzcosa.github.io/cruzcosa-webdev-portfolio/
-
+Website Address: https://christopher-cruzcosa.github.io/cruzcosa-react-portfolio/
 
 ## Credits
 
 This was made by Christopher Cruzcosa.
-
-
 
 ## License
 

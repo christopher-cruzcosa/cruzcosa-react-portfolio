@@ -22,6 +22,7 @@ function Portfolio() {
                     link={project.link}
                     gitLink={project.gitLink}
                     desc={project.desc}
+                    build={project.build}
                 />
             ))}
             </div>
