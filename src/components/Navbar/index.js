@@ -1,8 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-// Depending on the current path, this component sets the "active" class on the
-// appropriate navigation link item
 function Navbar() {
     return (
 
