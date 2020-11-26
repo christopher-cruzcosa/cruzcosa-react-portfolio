@@ -12,7 +12,8 @@ function Portfolio() {
                 </div>
             </div>
             <br />
-            <div className="cardContainer">
+            <div className="cardContainer align-self-center row">
+                <div > 
                 {ProjectData.map(project => (
                     <Projects
                         id={project.id}
@@ -25,6 +26,7 @@ function Portfolio() {
                         build={project.build}
                     />
                 ))}
+                </div>
             </div>
             <div style={{ clear: "both" }}></div>
         </div>

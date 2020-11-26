@@ -1,5 +1,14 @@
 [
   {
+    "id": 6,
+    "name": "QuestBuddy",
+    "link": "https://campaign-planner-nat20.herokuapp.com",
+    "gitLink": "https://github.com/mnilou/quest-buddy",
+    "image": "/images/projects/questbuddy.gif",
+    "desc": "A full stack MERN application for tabletop gaming, allowing players to create characters, campaigns, and schedule game sessions inside of a single app.  Currently supports D&D, 5E.",
+    "build": "React, Node JS, External API(s), MongoDB, Bootstrap"
+  },
+  {
     "id": 1,
     "name": "Dr. Fantastic's Tarot Readings",
     "link": "https://christopher-cruzcosa.github.io/life-reading-app/index.html",
