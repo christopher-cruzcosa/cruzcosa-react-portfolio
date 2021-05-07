@@ -23,7 +23,7 @@ This was made by Christopher Cruzcosa.
 
 ## License
 
-Copyright (c) [2020] [Christopher Cruzcosa]
+Copyright (c) [2021] [Christopher Cruzcosa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
