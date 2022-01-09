@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cruzcosa-react-portfolio/static/css/main.7f55c535.chunk.css",
-    "main.js": "/cruzcosa-react-portfolio/static/js/main.23aa979b.chunk.js",
-    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.23aa979b.chunk.js.map",
+    "main.js": "/cruzcosa-react-portfolio/static/js/main.b62a97c6.chunk.js",
+    "main.js.map": "/cruzcosa-react-portfolio/static/js/main.b62a97c6.chunk.js.map",
     "runtime-main.js": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js",
     "runtime-main.js.map": "/cruzcosa-react-portfolio/static/js/runtime-main.9eccc73c.js.map",
     "static/css/2.1a02f21c.chunk.css": "/cruzcosa-react-portfolio/static/css/2.1a02f21c.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.9b5802db.chunk.js",
     "static/css/main.7f55c535.chunk.css",
-    "static/js/main.23aa979b.chunk.js"
+    "static/js/main.b62a97c6.chunk.js"
   ]
 }
